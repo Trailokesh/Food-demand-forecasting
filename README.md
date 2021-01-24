@@ -1,0 +1,2 @@
+# Food-demand-forecasting_ML
+There is a meal delivery company which operates in multiple cities. They have various fulfillment centers in these cities for dispatching meal orders to their customers. Demand forecasting for upcoming weeks will be helpful so that these centers will plan the stock of raw materials accordingly. I have used various machine learning techniques and compared the accuracies.
